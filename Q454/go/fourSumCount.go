@@ -1,4 +1,4 @@
-package main
+package fourSumCount
 
 func neg(x int) int {
 	return x * -1
