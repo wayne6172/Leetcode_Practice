@@ -1,3 +1,5 @@
+package deleteDuplicates
+
 // 4 ms (72.20%), 3.1 MB (72.42%) 2022/3/10 12:42
 func deleteDuplicates(head *ListNode) *ListNode {
     if head == nil {
